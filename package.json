@@ -1,14 +1,14 @@
 {
-  "name": "complete-intro-to-react",
+  "name": "reactNetflix",
   "version": "1.0.0",
-  "description": "A two day workshop on a complete intro to React",
+  "description": "A React with Redux project",
   "main": "index.js",
   "scripts": {
     "test": "standard",
     "build": "webpack",
     "watch": "webpack --watch"
   },
-  "author": "Brian Holt <btholt@gmail.com>",
+  "author": "Joseph Nolan <josephn0624@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "axios": "0.9.1",
@@ -49,7 +49,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/btholt/complete-intro-to-react.git"
+    "url": "git+https://github.com/JoSmoBN/reactNetflix.git"
   },
   "keywords": [
     "react",
@@ -58,7 +58,7 @@
     "redux"
   ],
   "bugs": {
-    "url": "https://github.com/btholt/complete-intro-to-react/issues"
+    "url": "https://github.com/JoSmoBN/reactNetflix/issues"
   },
-  "homepage": "https://github.com/btholt/complete-intro-to-react#readme"
+  "homepage": "https://github.com/JoSmoBN/reactNetflix#readme"
 }
